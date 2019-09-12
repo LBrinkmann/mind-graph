@@ -1,0 +1,11 @@
+*/node_modules
+.*
+!/.gitignore
+!/.dockerignore
+__pycache__
+*/.ipynb_checkpoints
+*.egg-info/
+*.csv
+*.pkl
+# */dist/*
+*.jar
